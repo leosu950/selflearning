@@ -12,6 +12,14 @@ p{
 }
 
 .bg img{
+    min-width: 1000px;
     min-height: 100%;
     width: 100%;
+}
+
+@media screen and (max0width: 1000px){
+    img.bg {
+        left:50%;
+        margin-left: -500px;
+    }
 }
