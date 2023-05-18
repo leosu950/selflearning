@@ -53,6 +53,7 @@ div{
     display: inline-block;
     font-size: x-large;
     font-family: "DFKai-sb";
+    margin-right: 10px;
 }
 
 .button2{
@@ -67,6 +68,7 @@ div{
     display: inline-block;
     font-size: x-large;
     font-family: "DFKai-sb";
+    margin-right: 10px;
 }
 
 .button3{
@@ -81,6 +83,7 @@ div{
     display: inline-block;
     font-size: x-large;
     font-family: "DFKai-sb";
+    margin-right: 10px;
 }
 
 .button4{
@@ -95,20 +98,7 @@ div{
     display: inline-block;
     font-size: x-large;
     font-family: "DFKai-sb";
-}
-
-.button5{
-    background-color: blanchedalmond; /* Green */
-    border-color: black;
-    border-width: 1px;
-    border-radius: 60px;
-    color: black;
-    padding: 10px 15px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: x-large;
-    font-family: "DFKai-sb";
+    margin-right: 10px;
 }
 .button1:hover{
     background-color: greenyellow;
@@ -120,8 +110,5 @@ div{
     background-color: greenyellow;
 }
 .button4:hover{
-    background-color: greenyellow;
-}
-.button5:hover{
     background-color: greenyellow;
 }
